@@ -17,3 +17,5 @@ The libopendesf project is currently in early development stages, thus the API i
 # Building
 
 # License
+
+# Authors
