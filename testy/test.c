@@ -5,7 +5,7 @@
 // E.g. with GCC by using the -D flag: gcc -c aes.c -DCBC=0 -DCTR=1 -DECB=1
 #define CBC 1
 
-#include "aes.h"
+#include "../src/aes.h"
 
 static void wyswietl(uint8_t* tab, uint32_t n)
 {

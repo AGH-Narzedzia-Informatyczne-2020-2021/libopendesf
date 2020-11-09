@@ -31,10 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="aes.c">
+		<Unit filename="../src/aes.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="aes.h" />
+		<Unit filename="../src/aes.h" />
 		<Unit filename="test.c">
 			<Option compilerVar="CC" />
 		</Unit>
