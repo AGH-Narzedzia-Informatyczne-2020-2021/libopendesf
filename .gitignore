@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+#Code Blocks
+bin/*
+obj/*
+*.depend
+*.layout
