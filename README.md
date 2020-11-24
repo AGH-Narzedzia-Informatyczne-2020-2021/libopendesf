@@ -18,4 +18,7 @@ The libopendesf project is currently in early development stages, thus the API i
 
 # License
 
+# Gists
+ - [ ] @KPraszkiewicz: [test](https://gist.github.com/KPraszkiewicz/f9376775a3c5ec9a77c2f0b97a199a1c)
+ - [x] @KPraszkiewicz: [kik10](https://gist.github.com/KPraszkiewicz/c37e3b448731e23a7d680b9f2eb0b60c)
 # Authors
