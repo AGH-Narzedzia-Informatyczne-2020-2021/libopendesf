@@ -2,7 +2,9 @@
   <img src="https://i.imgur.com/uuRQ0iI.png" width=300>
 </p>
 
-The OpenDESF project aims to create an open-source library for interacting with various DESFire cards and card readers, native bindings to various languages/frameworks (eg. Node.js and Python) and an electron-based deployment and keys management suite.
+The following documentation contains our project-related success stories, examples of applications, as well as a video showing a working demo of our protocol implementation:
+
+
 
 Documentation [PL]
 
